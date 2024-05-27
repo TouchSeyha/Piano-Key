@@ -6,12 +6,6 @@ This repository contains the code for a simple web-based piano player applicatio
 
 The HTML file (`index.html`) is structured as follows:
 
-### Meta Information
-
-- **Viewport**: Ensures the webpage is responsive.
-- **Character Encoding**: Sets the character encoding to UTF-8.
-- **CSS Link**: Links to an external stylesheet (`style.css`).
-
 ### Title
 
 - The webpage title is set to "Piano Keys".
